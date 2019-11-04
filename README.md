@@ -1,7 +1,7 @@
 # Quản lý khách sạn
 # Đề tài : Quản lý khách sạn
 # 1. Goals and Objective
-<h1 style="font-size: 25px">1.1  Business Objectives</h1>
+<h1 style="font-size: 10px">1.1  Business Objectives</h1>
 	<ul>
 		<li>Bao gồm 7 chức năng: Đặt phòng,hủy đặt phòng,lập báo cáo,lập hóa đơn thanh toán,check in,check out,quản lý phòng(thêm,sửa,xóa)</li>
 		<li>Cách làm việc và thiết kế sơ đồ user case bằng UML</li>
